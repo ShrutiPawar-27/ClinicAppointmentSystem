@@ -27,5 +27,6 @@ It allows patients to register, book appointments, and view appointment history.
 
 ## 🚀 How to Run
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/ClinicAppointmentSystem.git
+2. ```bash
+   git clone https://github.com/ShrutiPawar-27/ClinicAppointmentSystem.git
+  
