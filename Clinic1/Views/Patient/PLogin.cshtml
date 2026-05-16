@@ -1,0 +1,90 @@
+﻿@model Clinic1.Models.PLogin
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Patient Login</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" />
+    <style>
+        body, html {
+            height: 100%;
+            margin: 0;
+        }
+
+        .login-bg {
+            background-image: url('/Images/loginbackground.jpg'); 
+            background-size: cover;
+            background-position: center;
+            background-repeat: no-repeat;
+            height: 100%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .login-card {
+            background-color: rgba(255, 255, 255, 0.95);
+            padding: 2rem;
+            border-radius: 15px;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+            width: 100%;
+            max-width: 400px;
+        }
+
+        .form-label {
+            font-weight: 600;
+        }
+    </style>
+</head>
+<body>
+    <div class="login-bg">
+        <div class="login-card">
+            <h3 class="text-center text-primary mb-4">Patient Login</h3>
+
+            @using (Html.BeginForm("PLogin", "Patient", FormMethod.Post))
+            {
+                <div class="mb-3">
+                    @Html.LabelFor(model => model.Email, new { @class = "form-label" })
+                    @Html.TextBoxFor(model => model.Email, new { @class = "form-control", placeholder = "Enter email address" })
+                    @Html.ValidationMessageFor(model => model.Email, "", new { @class = "text-danger" })
+                </div>
+
+                <div class="mb-3">
+                    @Html.LabelFor(model => model.Password, new { @class = "form-label" })
+                    @Html.PasswordFor(model => model.Password, new { @class = "form-control", placeholder = "Enter password" })
+                    @Html.ValidationMessageFor(model => model.Password, "", new { @class = "text-danger" })
+                </div>
+
+                <div class="d-grid">
+                    <button type="submit" class="btn btn-primary">Login</button>
+                </div>
+
+                <div class="text-center mt-3">
+                    <a href="@Url.Action("ForgotPassword", "Patient")">Forgot password?</a>
+                </div>
+
+
+
+            }
+
+
+            @if (ViewBag.Error != null)
+            {
+
+                <div class="alert alert-danger">@ViewBag.Error</div>
+
+            }
+
+
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
+

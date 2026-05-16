@@ -1,0 +1,633 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Shruti\\source\\repos\\Clinic1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E21D6F30-CC47-4581-8997-00F459FE0DDF}|Clinic1\\Clinic1.csproj|c:\\users\\shruti\\source\\repos\\clinic1\\clinic1\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E21D6F30-CC47-4581-8997-00F459FE0DDF}|Clinic1\\Clinic1.csproj|solutionrelative:clinic1\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E21D6F30-CC47-4581-8997-00F459FE0DDF}|Clinic1\\Clinic1.csproj|C:\\Users\\Shruti\\source\\repos\\Clinic1\\clinic1\\models\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E21D6F30-CC47-4581-8997-00F459FE0DDF}|Clinic1\\Clinic1.csproj|solutionrelative:clinic1\\models\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E21D6F30-CC47-4581-8997-00F459FE0DDF}|Clinic1\\Clinic1.csproj|C:\\Users\\Shruti\\source\\repos\\Clinic1\\clinic1\\models\\dregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E21D6F30-CC47-4581-8997-00F459FE0DDF}|Clinic1\\Clinic1.csproj|solutionrelative:clinic1\\models\\dregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E21D6F30-CC47-4581-8997-00F459FE0DDF}|Clinic1\\Clinic1.csproj|C:\\Users\\Shruti\\source\\repos\\Clinic1\\clinic1\\models\\dlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E21D6F30-CC47-4581-8997-00F459FE0DDF}|Clinic1\\Clinic1.csproj|solutionrelative:clinic1\\models\\dlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E21D6F30-CC47-4581-8997-00F459FE0DDF}|Clinic1\\Clinic1.csproj|C:\\Users\\Shruti\\source\\repos\\Clinic1\\clinic1\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E21D6F30-CC47-4581-8997-00F459FE0DDF}|Clinic1\\Clinic1.csproj|solutionrelative:clinic1\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E21D6F30-CC47-4581-8997-00F459FE0DDF}|Clinic1\\Clinic1.csproj|C:\\Users\\Shruti\\source\\repos\\Clinic1\\clinic1\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E21D6F30-CC47-4581-8997-00F459FE0DDF}|Clinic1\\Clinic1.csproj|solutionrelative:clinic1\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E21D6F30-CC47-4581-8997-00F459FE0DDF}|Clinic1\\Clinic1.csproj|C:\\Users\\Shruti\\source\\repos\\Clinic1\\clinic1\\models\\adashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E21D6F30-CC47-4581-8997-00F459FE0DDF}|Clinic1\\Clinic1.csproj|solutionrelative:clinic1\\models\\adashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E21D6F30-CC47-4581-8997-00F459FE0DDF}|Clinic1\\Clinic1.csproj|C:\\Users\\Shruti\\source\\repos\\Clinic1\\clinic1\\views\\appointment\\myappointments.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E21D6F30-CC47-4581-8997-00F459FE0DDF}|Clinic1\\Clinic1.csproj|solutionrelative:clinic1\\views\\appointment\\myappointments.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E21D6F30-CC47-4581-8997-00F459FE0DDF}|Clinic1\\Clinic1.csproj|C:\\Users\\Shruti\\source\\repos\\Clinic1\\clinic1\\views\\patient\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E21D6F30-CC47-4581-8997-00F459FE0DDF}|Clinic1\\Clinic1.csproj|solutionrelative:clinic1\\views\\patient\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E21D6F30-CC47-4581-8997-00F459FE0DDF}|Clinic1\\Clinic1.csproj|C:\\Users\\Shruti\\source\\repos\\Clinic1\\clinic1\\views\\admin\\adashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E21D6F30-CC47-4581-8997-00F459FE0DDF}|Clinic1\\Clinic1.csproj|solutionrelative:clinic1\\views\\admin\\adashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E21D6F30-CC47-4581-8997-00F459FE0DDF}|Clinic1\\Clinic1.csproj|C:\\Users\\Shruti\\source\\repos\\Clinic1\\clinic1\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E21D6F30-CC47-4581-8997-00F459FE0DDF}|Clinic1\\Clinic1.csproj|solutionrelative:clinic1\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E21D6F30-CC47-4581-8997-00F459FE0DDF}|Clinic1\\Clinic1.csproj|C:\\Users\\Shruti\\source\\repos\\Clinic1\\clinic1\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E21D6F30-CC47-4581-8997-00F459FE0DDF}|Clinic1\\Clinic1.csproj|solutionrelative:clinic1\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E21D6F30-CC47-4581-8997-00F459FE0DDF}|Clinic1\\Clinic1.csproj|C:\\Users\\Shruti\\source\\repos\\Clinic1\\clinic1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E21D6F30-CC47-4581-8997-00F459FE0DDF}|Clinic1\\Clinic1.csproj|solutionrelative:clinic1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E21D6F30-CC47-4581-8997-00F459FE0DDF}|Clinic1\\Clinic1.csproj|C:\\Users\\Shruti\\source\\repos\\Clinic1\\clinic1\\views\\admin\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E21D6F30-CC47-4581-8997-00F459FE0DDF}|Clinic1\\Clinic1.csproj|solutionrelative:clinic1\\views\\admin\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E21D6F30-CC47-4581-8997-00F459FE0DDF}|Clinic1\\Clinic1.csproj|C:\\Users\\Shruti\\source\\repos\\Clinic1\\clinic1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E21D6F30-CC47-4581-8997-00F459FE0DDF}|Clinic1\\Clinic1.csproj|solutionrelative:clinic1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E21D6F30-CC47-4581-8997-00F459FE0DDF}|Clinic1\\Clinic1.csproj|C:\\Users\\Shruti\\source\\repos\\Clinic1\\clinic1\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{E21D6F30-CC47-4581-8997-00F459FE0DDF}|Clinic1\\Clinic1.csproj|solutionrelative:clinic1\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E21D6F30-CC47-4581-8997-00F459FE0DDF}|Clinic1\\Clinic1.csproj|C:\\Users\\Shruti\\source\\repos\\Clinic1\\clinic1\\views\\appointment\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E21D6F30-CC47-4581-8997-00F459FE0DDF}|Clinic1\\Clinic1.csproj|solutionrelative:clinic1\\views\\appointment\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E21D6F30-CC47-4581-8997-00F459FE0DDF}|Clinic1\\Clinic1.csproj|C:\\Users\\Shruti\\source\\repos\\Clinic1\\clinic1\\views\\patient\\pregistration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E21D6F30-CC47-4581-8997-00F459FE0DDF}|Clinic1\\Clinic1.csproj|solutionrelative:clinic1\\views\\patient\\pregistration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E21D6F30-CC47-4581-8997-00F459FE0DDF}|Clinic1\\Clinic1.csproj|C:\\Users\\Shruti\\source\\repos\\Clinic1\\clinic1\\models\\appointmenthistorymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E21D6F30-CC47-4581-8997-00F459FE0DDF}|Clinic1\\Clinic1.csproj|solutionrelative:clinic1\\models\\appointmenthistorymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E21D6F30-CC47-4581-8997-00F459FE0DDF}|Clinic1\\Clinic1.csproj|C:\\Users\\Shruti\\source\\repos\\Clinic1\\clinic1\\views\\admin\\appointmentreport.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E21D6F30-CC47-4581-8997-00F459FE0DDF}|Clinic1\\Clinic1.csproj|solutionrelative:clinic1\\views\\admin\\appointmentreport.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E21D6F30-CC47-4581-8997-00F459FE0DDF}|Clinic1\\Clinic1.csproj|C:\\Users\\Shruti\\source\\repos\\Clinic1\\clinic1\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E21D6F30-CC47-4581-8997-00F459FE0DDF}|Clinic1\\Clinic1.csproj|solutionrelative:clinic1\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E21D6F30-CC47-4581-8997-00F459FE0DDF}|Clinic1\\Clinic1.csproj|C:\\Users\\Shruti\\source\\repos\\Clinic1\\clinic1\\views\\doctor\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E21D6F30-CC47-4581-8997-00F459FE0DDF}|Clinic1\\Clinic1.csproj|solutionrelative:clinic1\\views\\doctor\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E21D6F30-CC47-4581-8997-00F459FE0DDF}|Clinic1\\Clinic1.csproj|C:\\Users\\Shruti\\source\\repos\\Clinic1\\clinic1\\views\\doctor\\dlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E21D6F30-CC47-4581-8997-00F459FE0DDF}|Clinic1\\Clinic1.csproj|solutionrelative:clinic1\\views\\doctor\\dlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E21D6F30-CC47-4581-8997-00F459FE0DDF}|Clinic1\\Clinic1.csproj|C:\\Users\\Shruti\\source\\repos\\Clinic1\\clinic1\\views\\admin\\cancelappointment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E21D6F30-CC47-4581-8997-00F459FE0DDF}|Clinic1\\Clinic1.csproj|solutionrelative:clinic1\\views\\admin\\cancelappointment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E21D6F30-CC47-4581-8997-00F459FE0DDF}|Clinic1\\Clinic1.csproj|C:\\Users\\Shruti\\source\\repos\\Clinic1\\clinic1\\views\\doctor\\dregistration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E21D6F30-CC47-4581-8997-00F459FE0DDF}|Clinic1\\Clinic1.csproj|solutionrelative:clinic1\\views\\doctor\\dregistration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E21D6F30-CC47-4581-8997-00F459FE0DDF}|Clinic1\\Clinic1.csproj|C:\\Users\\Shruti\\source\\repos\\Clinic1\\clinic1\\models\\bookappointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E21D6F30-CC47-4581-8997-00F459FE0DDF}|Clinic1\\Clinic1.csproj|solutionrelative:clinic1\\models\\bookappointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E21D6F30-CC47-4581-8997-00F459FE0DDF}|Clinic1\\Clinic1.csproj|C:\\Users\\Shruti\\source\\repos\\Clinic1\\clinic1\\views\\admin\\managedoctors.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E21D6F30-CC47-4581-8997-00F459FE0DDF}|Clinic1\\Clinic1.csproj|solutionrelative:clinic1\\views\\admin\\managedoctors.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E21D6F30-CC47-4581-8997-00F459FE0DDF}|Clinic1\\Clinic1.csproj|C:\\Users\\Shruti\\source\\repos\\Clinic1\\clinic1\\views\\admin\\managepatients.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E21D6F30-CC47-4581-8997-00F459FE0DDF}|Clinic1\\Clinic1.csproj|solutionrelative:clinic1\\views\\admin\\managepatients.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E21D6F30-CC47-4581-8997-00F459FE0DDF}|Clinic1\\Clinic1.csproj|C:\\Users\\Shruti\\source\\repos\\Clinic1\\clinic1\\views\\admin\\manageappointments.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E21D6F30-CC47-4581-8997-00F459FE0DDF}|Clinic1\\Clinic1.csproj|solutionrelative:clinic1\\views\\admin\\manageappointments.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E21D6F30-CC47-4581-8997-00F459FE0DDF}|Clinic1\\Clinic1.csproj|C:\\Users\\Shruti\\source\\repos\\Clinic1\\clinic1\\views\\patient\\bookappointment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E21D6F30-CC47-4581-8997-00F459FE0DDF}|Clinic1\\Clinic1.csproj|solutionrelative:clinic1\\views\\patient\\bookappointment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E21D6F30-CC47-4581-8997-00F459FE0DDF}|Clinic1\\Clinic1.csproj|C:\\Users\\Shruti\\source\\repos\\Clinic1\\clinic1\\models\\pregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E21D6F30-CC47-4581-8997-00F459FE0DDF}|Clinic1\\Clinic1.csproj|solutionrelative:clinic1\\models\\pregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E21D6F30-CC47-4581-8997-00F459FE0DDF}|Clinic1\\Clinic1.csproj|C:\\Users\\Shruti\\source\\repos\\Clinic1\\clinic1\\views\\admin\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E21D6F30-CC47-4581-8997-00F459FE0DDF}|Clinic1\\Clinic1.csproj|solutionrelative:clinic1\\views\\admin\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E21D6F30-CC47-4581-8997-00F459FE0DDF}|Clinic1\\Clinic1.csproj|C:\\Users\\Shruti\\source\\repos\\Clinic1\\clinic1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E21D6F30-CC47-4581-8997-00F459FE0DDF}|Clinic1\\Clinic1.csproj|solutionrelative:clinic1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E21D6F30-CC47-4581-8997-00F459FE0DDF}|Clinic1\\Clinic1.csproj|C:\\Users\\Shruti\\source\\repos\\Clinic1\\clinic1\\views\\patient\\plogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E21D6F30-CC47-4581-8997-00F459FE0DDF}|Clinic1\\Clinic1.csproj|solutionrelative:clinic1\\views\\patient\\plogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E21D6F30-CC47-4581-8997-00F459FE0DDF}|Clinic1\\Clinic1.csproj|C:\\Users\\Shruti\\source\\repos\\Clinic1\\clinic1\\views\\patient\\history.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E21D6F30-CC47-4581-8997-00F459FE0DDF}|Clinic1\\Clinic1.csproj|solutionrelative:clinic1\\views\\patient\\history.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E21D6F30-CC47-4581-8997-00F459FE0DDF}|Clinic1\\Clinic1.csproj|C:\\Users\\Shruti\\source\\repos\\Clinic1\\clinic1\\models\\plogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E21D6F30-CC47-4581-8997-00F459FE0DDF}|Clinic1\\Clinic1.csproj|solutionrelative:clinic1\\models\\plogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E21D6F30-CC47-4581-8997-00F459FE0DDF}|Clinic1\\Clinic1.csproj|C:\\Users\\Shruti\\source\\repos\\Clinic1\\clinic1\\views\\patient\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E21D6F30-CC47-4581-8997-00F459FE0DDF}|Clinic1\\Clinic1.csproj|solutionrelative:clinic1\\views\\patient\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E21D6F30-CC47-4581-8997-00F459FE0DDF}|Clinic1\\Clinic1.csproj|C:\\Users\\Shruti\\source\\repos\\Clinic1\\clinic1\\models\\forgotpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E21D6F30-CC47-4581-8997-00F459FE0DDF}|Clinic1\\Clinic1.csproj|solutionrelative:clinic1\\models\\forgotpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MyAppointments.cshtml",
+              "DocumentMoniker": "C:\\Users\\Shruti\\source\\repos\\Clinic1\\Clinic1\\Views\\Appointment\\MyAppointments.cshtml",
+              "RelativeDocumentMoniker": "Clinic1\\Views\\Appointment\\MyAppointments.cshtml",
+              "ToolTip": "C:\\Users\\Shruti\\source\\repos\\Clinic1\\Clinic1\\Views\\Appointment\\MyAppointments.cshtml",
+              "RelativeToolTip": "Clinic1\\Views\\Appointment\\MyAppointments.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACkAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-15T11:25:21.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DLogin.cs",
+              "DocumentMoniker": "C:\\Users\\Shruti\\source\\repos\\Clinic1\\Clinic1\\Models\\DLogin.cs",
+              "RelativeDocumentMoniker": "Clinic1\\Models\\DLogin.cs",
+              "ToolTip": "C:\\Users\\Shruti\\source\\repos\\Clinic1\\Clinic1\\Models\\DLogin.cs",
+              "RelativeToolTip": "Clinic1\\Models\\DLogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T18:07:55.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dregistration.cs",
+              "DocumentMoniker": "C:\\Users\\Shruti\\source\\repos\\Clinic1\\Clinic1\\Models\\Dregistration.cs",
+              "RelativeDocumentMoniker": "Clinic1\\Models\\Dregistration.cs",
+              "ToolTip": "C:\\Users\\Shruti\\source\\repos\\Clinic1\\Clinic1\\Models\\Dregistration.cs",
+              "RelativeToolTip": "Clinic1\\Models\\Dregistration.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T12:54:14.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dashboard.cs",
+              "DocumentMoniker": "C:\\Users\\Shruti\\source\\repos\\Clinic1\\Clinic1\\Models\\Dashboard.cs",
+              "RelativeDocumentMoniker": "Clinic1\\Models\\Dashboard.cs",
+              "ToolTip": "C:\\Users\\Shruti\\source\\repos\\Clinic1\\Clinic1\\Models\\Dashboard.cs",
+              "RelativeToolTip": "Clinic1\\Models\\Dashboard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T18:18:19.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppointmentController.cs",
+              "DocumentMoniker": "C:\\Users\\Shruti\\source\\repos\\Clinic1\\Clinic1\\Controllers\\AppointmentController.cs",
+              "RelativeDocumentMoniker": "Clinic1\\Controllers\\AppointmentController.cs",
+              "ToolTip": "C:\\Users\\Shruti\\source\\repos\\Clinic1\\Clinic1\\Controllers\\AppointmentController.cs",
+              "RelativeToolTip": "Clinic1\\Controllers\\AppointmentController.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAAAF4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T11:25:38.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ADashboard.cs",
+              "DocumentMoniker": "C:\\Users\\Shruti\\source\\repos\\Clinic1\\Clinic1\\Models\\ADashboard.cs",
+              "RelativeDocumentMoniker": "Clinic1\\Models\\ADashboard.cs",
+              "ToolTip": "C:\\Users\\Shruti\\source\\repos\\Clinic1\\Clinic1\\Models\\ADashboard.cs",
+              "RelativeToolTip": "Clinic1\\Models\\ADashboard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T13:17:46.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\Shruti\\source\\repos\\Clinic1\\Clinic1\\Models\\Admin.cs",
+              "RelativeDocumentMoniker": "Clinic1\\Models\\Admin.cs",
+              "ToolTip": "C:\\Users\\Shruti\\source\\repos\\Clinic1\\Clinic1\\Models\\Admin.cs",
+              "RelativeToolTip": "Clinic1\\Models\\Admin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T11:39:31.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "C:\\Users\\Shruti\\source\\repos\\Clinic1\\Clinic1\\Models\\Appointment.cs",
+              "RelativeDocumentMoniker": "Clinic1\\Models\\Appointment.cs",
+              "ToolTip": "C:\\Users\\Shruti\\source\\repos\\Clinic1\\Clinic1\\Models\\Appointment.cs",
+              "RelativeToolTip": "Clinic1\\Models\\Appointment.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T08:16:27.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\Shruti\\source\\repos\\Clinic1\\Clinic1\\Views\\Patient\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "Clinic1\\Views\\Patient\\Dashboard.cshtml",
+              "ToolTip": "C:\\Users\\Shruti\\source\\repos\\Clinic1\\Clinic1\\Views\\Patient\\Dashboard.cshtml",
+              "RelativeToolTip": "Clinic1\\Views\\Patient\\Dashboard.cshtml",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAAAFgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-13T18:07:05.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ADashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\Shruti\\source\\repos\\Clinic1\\Clinic1\\Views\\Admin\\ADashboard.cshtml",
+              "RelativeDocumentMoniker": "Clinic1\\Views\\Admin\\ADashboard.cshtml",
+              "ToolTip": "C:\\Users\\Shruti\\source\\repos\\Clinic1\\Clinic1\\Views\\Admin\\ADashboard.cshtml",
+              "RelativeToolTip": "Clinic1\\Views\\Admin\\ADashboard.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-26T11:42:27.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PatientController.cs",
+              "DocumentMoniker": "C:\\Users\\Shruti\\source\\repos\\Clinic1\\Clinic1\\Controllers\\PatientController.cs",
+              "RelativeDocumentMoniker": "Clinic1\\Controllers\\PatientController.cs",
+              "ToolTip": "C:\\Users\\Shruti\\source\\repos\\Clinic1\\Clinic1\\Controllers\\PatientController.cs",
+              "RelativeToolTip": "Clinic1\\Controllers\\PatientController.cs",
+              "ViewState": "AgIAAD4BAAAAAAAAAAAAAFEBAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T11:21:45.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\Shruti\\source\\repos\\Clinic1\\Clinic1\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Clinic1\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\Shruti\\source\\repos\\Clinic1\\Clinic1\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Clinic1\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAAAFYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T11:37:20.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Shruti\\source\\repos\\Clinic1\\Clinic1\\Views\\Admin\\Login.cshtml",
+              "RelativeDocumentMoniker": "Clinic1\\Views\\Admin\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Shruti\\source\\repos\\Clinic1\\Clinic1\\Views\\Admin\\Login.cshtml",
+              "RelativeToolTip": "Clinic1\\Views\\Admin\\Login.cshtml",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAADsAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-26T11:54:01.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Shruti\\source\\repos\\Clinic1\\Clinic1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Clinic1\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Shruti\\source\\repos\\Clinic1\\Clinic1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Clinic1\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T11:03:26.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "web.config",
+              "DocumentMoniker": "C:\\Users\\Shruti\\source\\repos\\Clinic1\\Clinic1\\Views\\web.config",
+              "RelativeDocumentMoniker": "Clinic1\\Views\\web.config",
+              "ToolTip": "C:\\Users\\Shruti\\source\\repos\\Clinic1\\Clinic1\\Views\\web.config",
+              "RelativeToolTip": "Clinic1\\Views\\web.config",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAgwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-10-14T06:24:43.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Pregistration.cshtml",
+              "DocumentMoniker": "C:\\Users\\Shruti\\source\\repos\\Clinic1\\Clinic1\\Views\\Patient\\Pregistration.cshtml",
+              "RelativeDocumentMoniker": "Clinic1\\Views\\Patient\\Pregistration.cshtml",
+              "ToolTip": "C:\\Users\\Shruti\\source\\repos\\Clinic1\\Clinic1\\Views\\Patient\\Pregistration.cshtml",
+              "RelativeToolTip": "Clinic1\\Views\\Patient\\Pregistration.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAA0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-10T11:22:38.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Shruti\\source\\repos\\Clinic1\\Clinic1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Clinic1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Shruti\\source\\repos\\Clinic1\\Clinic1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Clinic1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-21T17:38:32.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AppointmentHistoryModel.cs",
+              "DocumentMoniker": "C:\\Users\\Shruti\\source\\repos\\Clinic1\\Clinic1\\Models\\AppointmentHistoryModel.cs",
+              "RelativeDocumentMoniker": "Clinic1\\Models\\AppointmentHistoryModel.cs",
+              "ToolTip": "C:\\Users\\Shruti\\source\\repos\\Clinic1\\Clinic1\\Models\\AppointmentHistoryModel.cs",
+              "RelativeToolTip": "Clinic1\\Models\\AppointmentHistoryModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T11:35:59.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Shruti\\source\\repos\\Clinic1\\Clinic1\\Views\\Appointment\\Index.cshtml",
+              "RelativeDocumentMoniker": "Clinic1\\Views\\Appointment\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Shruti\\source\\repos\\Clinic1\\Clinic1\\Views\\Appointment\\Index.cshtml",
+              "RelativeToolTip": "Clinic1\\Views\\Appointment\\Index.cshtml",
+              "ViewState": "AgIAABkAAAAAAAAAAAAqwDEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-03T11:37:31.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AppointmentReport.cshtml",
+              "DocumentMoniker": "C:\\Users\\Shruti\\source\\repos\\Clinic1\\Clinic1\\Views\\Admin\\AppointmentReport.cshtml",
+              "RelativeDocumentMoniker": "Clinic1\\Views\\Admin\\AppointmentReport.cshtml",
+              "ToolTip": "C:\\Users\\Shruti\\source\\repos\\Clinic1\\Clinic1\\Views\\Admin\\AppointmentReport.cshtml",
+              "RelativeToolTip": "Clinic1\\Views\\Admin\\AppointmentReport.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-05T19:25:48.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CancelAppointment.cshtml",
+              "DocumentMoniker": "C:\\Users\\Shruti\\source\\repos\\Clinic1\\Clinic1\\Views\\Admin\\CancelAppointment.cshtml",
+              "RelativeDocumentMoniker": "Clinic1\\Views\\Admin\\CancelAppointment.cshtml",
+              "ToolTip": "C:\\Users\\Shruti\\source\\repos\\Clinic1\\Clinic1\\Views\\Admin\\CancelAppointment.cshtml",
+              "RelativeToolTip": "Clinic1\\Views\\Admin\\CancelAppointment.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-05T18:31:39.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DLogin.cshtml",
+              "DocumentMoniker": "C:\\Users\\Shruti\\source\\repos\\Clinic1\\Clinic1\\Views\\Doctor\\DLogin.cshtml",
+              "RelativeDocumentMoniker": "Clinic1\\Views\\Doctor\\DLogin.cshtml",
+              "ToolTip": "C:\\Users\\Shruti\\source\\repos\\Clinic1\\Clinic1\\Views\\Doctor\\DLogin.cshtml",
+              "RelativeToolTip": "Clinic1\\Views\\Doctor\\DLogin.cshtml",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAAEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-14T18:03:46.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DoctorController.cs",
+              "DocumentMoniker": "C:\\Users\\Shruti\\source\\repos\\Clinic1\\Clinic1\\Controllers\\DoctorController.cs",
+              "RelativeDocumentMoniker": "Clinic1\\Controllers\\DoctorController.cs",
+              "ToolTip": "C:\\Users\\Shruti\\source\\repos\\Clinic1\\Clinic1\\Controllers\\DoctorController.cs",
+              "RelativeToolTip": "Clinic1\\Controllers\\DoctorController.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAAAGwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T12:40:28.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\Shruti\\source\\repos\\Clinic1\\Clinic1\\Views\\Doctor\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "Clinic1\\Views\\Doctor\\Dashboard.cshtml",
+              "ToolTip": "C:\\Users\\Shruti\\source\\repos\\Clinic1\\Clinic1\\Views\\Doctor\\Dashboard.cshtml",
+              "RelativeToolTip": "Clinic1\\Views\\Doctor\\Dashboard.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-01T10:58:30.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ManageAppointments.cshtml",
+              "DocumentMoniker": "C:\\Users\\Shruti\\source\\repos\\Clinic1\\Clinic1\\Views\\Admin\\ManageAppointments.cshtml",
+              "RelativeDocumentMoniker": "Clinic1\\Views\\Admin\\ManageAppointments.cshtml",
+              "ToolTip": "C:\\Users\\Shruti\\source\\repos\\Clinic1\\Clinic1\\Views\\Admin\\ManageAppointments.cshtml",
+              "RelativeToolTip": "Clinic1\\Views\\Admin\\ManageAppointments.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-26T11:44:40.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "BookAppointment.cs",
+              "DocumentMoniker": "C:\\Users\\Shruti\\source\\repos\\Clinic1\\Clinic1\\Models\\BookAppointment.cs",
+              "RelativeDocumentMoniker": "Clinic1\\Models\\BookAppointment.cs",
+              "ToolTip": "C:\\Users\\Shruti\\source\\repos\\Clinic1\\Clinic1\\Models\\BookAppointment.cs",
+              "RelativeToolTip": "Clinic1\\Models\\BookAppointment.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T13:11:07.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ManageDoctors.cshtml",
+              "DocumentMoniker": "C:\\Users\\Shruti\\source\\repos\\Clinic1\\Clinic1\\Views\\Admin\\ManageDoctors.cshtml",
+              "RelativeDocumentMoniker": "Clinic1\\Views\\Admin\\ManageDoctors.cshtml",
+              "ToolTip": "C:\\Users\\Shruti\\source\\repos\\Clinic1\\Clinic1\\Views\\Admin\\ManageDoctors.cshtml",
+              "RelativeToolTip": "Clinic1\\Views\\Admin\\ManageDoctors.cshtml",
+              "ViewState": "AgIAACsAAAAAAAAAAAAAADYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-26T13:23:07.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Dregistration.cshtml",
+              "DocumentMoniker": "C:\\Users\\Shruti\\source\\repos\\Clinic1\\Clinic1\\Views\\Doctor\\Dregistration.cshtml",
+              "RelativeDocumentMoniker": "Clinic1\\Views\\Doctor\\Dregistration.cshtml",
+              "ToolTip": "C:\\Users\\Shruti\\source\\repos\\Clinic1\\Clinic1\\Views\\Doctor\\Dregistration.cshtml",
+              "RelativeToolTip": "Clinic1\\Views\\Doctor\\Dregistration.cshtml",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAADEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-14T12:43:10.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ManagePatients.cshtml",
+              "DocumentMoniker": "C:\\Users\\Shruti\\source\\repos\\Clinic1\\Clinic1\\Views\\Admin\\ManagePatients.cshtml",
+              "RelativeDocumentMoniker": "Clinic1\\Views\\Admin\\ManagePatients.cshtml",
+              "ToolTip": "C:\\Users\\Shruti\\source\\repos\\Clinic1\\Clinic1\\Views\\Admin\\ManagePatients.cshtml",
+              "RelativeToolTip": "Clinic1\\Views\\Admin\\ManagePatients.cshtml",
+              "ViewState": "AgIAADgAAAAAAAAAAAAAAAAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-26T13:46:45.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "BookAppointment.cshtml",
+              "DocumentMoniker": "C:\\Users\\Shruti\\source\\repos\\Clinic1\\Clinic1\\Views\\Patient\\BookAppointment.cshtml",
+              "RelativeDocumentMoniker": "Clinic1\\Views\\Patient\\BookAppointment.cshtml",
+              "ToolTip": "C:\\Users\\Shruti\\source\\repos\\Clinic1\\Clinic1\\Views\\Patient\\BookAppointment.cshtml",
+              "RelativeToolTip": "Clinic1\\Views\\Patient\\BookAppointment.cshtml",
+              "ViewState": "AgIAAI8AAAAAAAAAAAAUwKcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-11T12:58:05.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Pregistration.cs",
+              "DocumentMoniker": "C:\\Users\\Shruti\\source\\repos\\Clinic1\\Clinic1\\Models\\Pregistration.cs",
+              "RelativeDocumentMoniker": "Clinic1\\Models\\Pregistration.cs",
+              "ToolTip": "C:\\Users\\Shruti\\source\\repos\\Clinic1\\Clinic1\\Models\\Pregistration.cs",
+              "RelativeToolTip": "Clinic1\\Models\\Pregistration.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T11:23:18.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\Shruti\\source\\repos\\Clinic1\\Clinic1\\Views\\Admin\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "Clinic1\\Views\\Admin\\Dashboard.cshtml",
+              "ToolTip": "C:\\Users\\Shruti\\source\\repos\\Clinic1\\Clinic1\\Views\\Admin\\Dashboard.cshtml",
+              "RelativeToolTip": "Clinic1\\Views\\Admin\\Dashboard.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-26T13:13:32.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "PLogin.cshtml",
+              "DocumentMoniker": "C:\\Users\\Shruti\\source\\repos\\Clinic1\\Clinic1\\Views\\Patient\\PLogin.cshtml",
+              "RelativeDocumentMoniker": "Clinic1\\Views\\Patient\\PLogin.cshtml",
+              "ToolTip": "C:\\Users\\Shruti\\source\\repos\\Clinic1\\Clinic1\\Views\\Patient\\PLogin.cshtml",
+              "RelativeToolTip": "Clinic1\\Views\\Patient\\PLogin.cshtml",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAFoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-10T14:13:08.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Shruti\\source\\repos\\Clinic1\\Clinic1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Clinic1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Shruti\\source\\repos\\Clinic1\\Clinic1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Clinic1\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADEAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-10T11:04:08.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "History.cshtml",
+              "DocumentMoniker": "C:\\Users\\Shruti\\source\\repos\\Clinic1\\Clinic1\\Views\\Patient\\History.cshtml",
+              "RelativeDocumentMoniker": "Clinic1\\Views\\Patient\\History.cshtml",
+              "ToolTip": "C:\\Users\\Shruti\\source\\repos\\Clinic1\\Clinic1\\Views\\Patient\\History.cshtml",
+              "RelativeToolTip": "Clinic1\\Views\\Patient\\History.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-26T08:07:37.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "PLogin.cs",
+              "DocumentMoniker": "C:\\Users\\Shruti\\source\\repos\\Clinic1\\Clinic1\\Models\\PLogin.cs",
+              "RelativeDocumentMoniker": "Clinic1\\Models\\PLogin.cs",
+              "ToolTip": "C:\\Users\\Shruti\\source\\repos\\Clinic1\\Clinic1\\Models\\PLogin.cs",
+              "RelativeToolTip": "Clinic1\\Models\\PLogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T14:45:22.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ForgotPassword.cshtml",
+              "DocumentMoniker": "C:\\Users\\Shruti\\source\\repos\\Clinic1\\Clinic1\\Views\\Patient\\ForgotPassword.cshtml",
+              "RelativeDocumentMoniker": "Clinic1\\Views\\Patient\\ForgotPassword.cshtml",
+              "ToolTip": "C:\\Users\\Shruti\\source\\repos\\Clinic1\\Clinic1\\Views\\Patient\\ForgotPassword.cshtml",
+              "RelativeToolTip": "Clinic1\\Views\\Patient\\ForgotPassword.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-13T13:39:06.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ForgotPassword.cs",
+              "DocumentMoniker": "C:\\Users\\Shruti\\source\\repos\\Clinic1\\Clinic1\\Models\\ForgotPassword.cs",
+              "RelativeDocumentMoniker": "Clinic1\\Models\\ForgotPassword.cs",
+              "ToolTip": "C:\\Users\\Shruti\\source\\repos\\Clinic1\\Clinic1\\Models\\ForgotPassword.cs",
+              "RelativeToolTip": "Clinic1\\Models\\ForgotPassword.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T13:56:31.064Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

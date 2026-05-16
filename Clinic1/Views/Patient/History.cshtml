@@ -1,0 +1,41 @@
+﻿@model List<Clinic1.Models.Appointment>
+
+@{
+    ViewBag.Title = "Appointment History";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container mt-5">
+    <h2 class="text-center text-primary mb-4">Your Appointment History</h2>
+
+    @if (!Model.Any())
+    {
+        <div class="alert alert-info text-center">
+            No appointments found.
+        </div>
+    }
+    else
+    {
+        <table class="table table-bordered table-striped">
+            <thead class="table-dark">
+                <tr>
+                    <th>Date</th>
+                    <th>Doctor</th>
+                    <th>Status</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var appt in Model)
+                {
+                    <tr>
+                        <td>@Html.DisplayFor(modelItem => appt.AppointmentDate)</td>
+                        <td>@Html.DisplayFor(modelItem => appt.DoctorName)</td>
+                        <td>@Html.DisplayFor(modelItem => appt.Status)</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    }
+
+    <a href="@Url.Action("Dashboard", "Patient")" class="btn btn-secondary mt-3">Back to Dashboard</a>
+</div>

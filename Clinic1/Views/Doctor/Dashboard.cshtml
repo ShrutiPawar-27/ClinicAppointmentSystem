@@ -1,0 +1,82 @@
+﻿@model List<Clinic1.Models.BookAppointment>
+@{
+    var doctor = ViewBag.Doctor as Clinic1.Models.Dregistration;
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Doctor Dashboard</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" />
+    <style>
+        body {
+            background: #f8f9fa;
+            font-family: 'Segoe UI';
+        }
+
+        .dashboard-container {
+            max-width: 1000px;
+            margin: auto;
+            padding: 2rem;
+        }
+
+        .card {
+            margin-bottom: 1rem;
+        }
+
+        .table thead {
+            background-color: #007bff;
+            color: white;
+        }
+    </style>
+</head>
+<body>
+    <div class="dashboard-container">
+        <!-- Doctor Profile -->
+        <div class="card">
+            <div class="card-body">
+                <h3>@doctor.Dname (@doctor.Specialization)</h3>
+                <p>Email: @doctor.Email | Mobile: @doctor.MobileNo</p>
+                <p>Availability: @doctor.Availability</p>
+            </div>
+        </div>
+
+        <!-- Appointment List -->
+        <div class="card">
+            <div class="card-body">
+                <h4>Upcoming Appointments</h4>
+                <table class="table table-bordered table-hover">
+                    <thead>
+                        <tr>
+                            <th>Date</th>
+                            <th>Time</th>
+                            <th>Disease</th>
+                            <th>Status</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var appt in Model)
+                        {
+                            <tr>
+                                <td>@appt.Date.ToString("dd-MM-yyyy")</td>
+                                <td>@appt.Time</td>
+                                <td>@appt.Disease</td>
+                                <td>@appt.Status</td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+            @if (doctor == null)
+            {
+                <h3 class="text-danger">Doctor not found!</h3>
+                return;
+            }
+
+        </div>
+    </div>
+</body>
+</html>
+
+

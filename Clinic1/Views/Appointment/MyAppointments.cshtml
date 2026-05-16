@@ -1,0 +1,67 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>MyAppointments</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+    <div class="container mt-4">
+        <h2 class="text-center mb-4">My Appointments</h2>
+
+        <table class="table table-bordered table-hover text-center shadow">
+            <thead class="bg-dark text-white">
+                <tr>
+                    <th>Doctor Name</th>
+                    <th>Date</th>
+                    <th>Status</th>
+                    <th>Action</th>
+                </tr>
+            </thead>
+
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@item.Dname</td>
+                        <td>@item.Date.ToString("dd MMM yyyy")</td>
+
+                        <td>
+                            @if (item.Status == "Cancelled")
+                            {
+                                <span class="badge bg-danger">Cancelled</span>
+                            }
+                            else
+                            {
+                                <span class="badge bg-success">Booked</span>
+                            }
+                        </td>
+
+                        <td>
+                            @if (item.Status != "Cancelled")
+                            {
+                                <a href="@Url.Action("CancelAppointment", "Appointment",
+                                new { id = item.AppointmentId })"
+                                   class="btn btn-sm btn-danger"
+                                   onclick="return confirm('Are you sure you want to cancel this appointment?')">
+                                    Cancel
+                                </a>
+                            }
+                            else
+                            {
+                                <span class="text-muted">No Action</span>
+                            }
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+    </body>
+</html>
