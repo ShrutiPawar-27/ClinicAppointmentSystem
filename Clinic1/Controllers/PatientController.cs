@@ -162,43 +162,7 @@ namespace Clinic1.Controllers
             } return View(model);
         }
       
-        //public ActionResult BookAppointment(BookAppointment model)
-        //{
-        //    using (SqlConnection conn = new SqlConnection(connStr))
-        //    {
-        //        conn.Open();
-        //        if (ModelState.IsValid)
-        //        {
-        //            // Insert appointment
-        //            string insertQuery = "INSERT INTO Appointments(DoctorID, Date, Time, Disease, PatientID) VALUES (@DoctorID, @Date, @Time, @Disease, @PatientID)";
-        //            using (SqlCommand Cmd = new SqlCommand(insertQuery, conn))
-        //            {
-        //                Cmd.Parameters.AddWithValue("@DoctorID", model.DoctorID);
-        //                Cmd.Parameters.AddWithValue("@Date", model.Date);
-        //                Cmd.Parameters.AddWithValue("@Time", model.Time);
-        //                Cmd.Parameters.AddWithValue("@Disease", model.Disease);
-        //                Cmd.Parameters.AddWithValue("@PatientID", model.PatientID);
-        //                Cmd.ExecuteNonQuery();
-        //            }
-        //            TempData["SuccessMessage"] = "Appointment booked successfully!";
-        //            return RedirectToAction("Dashboard");
-        //        }
-        //        string selectQuery = "SELECT DoctorID, DName FROM Doctors";
-        //        using (SqlCommand cmd = new SqlCommand(selectQuery, conn))
-        //        using (SqlDataReader dr = cmd.ExecuteReader())
-        //        {
-        //            List<SelectListItem> doctorList = new List<SelectListItem>();
-        //            while (dr.Read())
-        //            {
-        //                doctorList.Add(new SelectListItem
-        //                {
-        //                    Value = dr["DoctorID"].ToString(),
-        //                    Text = dr["DName"].ToString() });
-        //            }
-        //            model.DoctorList = doctorList;
-        //        }
-        //    } return View(model);
-        //  }
+        
 
         [HttpPost]
         public ActionResult BookAppointment(BookAppointment model)
@@ -289,26 +253,7 @@ namespace Clinic1.Controllers
 
             return View(model);
         }
-        //var model = new Dashboard();
-        //        string connectionString = ConfigurationManager.ConnectionStrings["DefaultConnection"].ConnectionString;
-
-        //        using (SqlConnection con = new SqlConnection(connectionString))
-        //        {
-        //            string query = "SELECT FullName FROM Patients WHERE PatientID = @id";
-
-        //            SqlCommand cmd = new SqlCommand(query, con);
-        //            cmd.Parameters.AddWithValue("@id", Session["PatientID"]);
-        //            con.Open();
-        //            SqlDataReader reader = cmd.ExecuteReader();
-        //            if (reader.Read())
-        //            {
-        //                model.PatientName = reader["FullName"].ToString();
-
-        //            }
-        //        }
-
-        //        return View(model);
-        //    }
+        
         
        
         public ActionResult History()

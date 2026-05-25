@@ -1,0 +1,16 @@
+# Ignore Visual Studio temporary files
+.vs/
+*.vsidx
+*.user
+*.suo
+
+# Build results
+bin/
+obj/
+
+# Logs
+*.log
+
+# Other
+*.dbmdl
+*.jfm
